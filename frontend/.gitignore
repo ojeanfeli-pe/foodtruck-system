@@ -1,0 +1,14 @@
+# IDEs/Editors
+.vscode/
+.idea/
+*.swp
+
+# Arquivos do sistema operacional
+Thumbs.db
+ehthumbs.db
+
+# MacOS
+*.DS_Store
+
+# Arquivos temporários
+*.log
